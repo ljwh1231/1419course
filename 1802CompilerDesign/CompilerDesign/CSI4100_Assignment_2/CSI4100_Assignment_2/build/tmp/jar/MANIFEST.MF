@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: MiniC Assignment 2
+Implementation-Version: Parser
+Main-Class: MiniC.MiniC
+
